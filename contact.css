@@ -1,0 +1,28 @@
+.con{
+    background-color:  grey;
+    
+    
+}
+.c {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 60px;
+}
+.phone{
+    display: flex;
+    margin-bottom: 15px;
+}
+.email{
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.location{
+    display: flex;
+   
+}
+.m{
+    margin-left: 550px;
+    margin-top: 60px;
+}
